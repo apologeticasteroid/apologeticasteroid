@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @apologeticasteroid
-- 👀 I’m interested in data analytics and web development
-- 🌱 I’m currently learning ReactJS and NodeJS
-- 💞️ I’m looking to collaborate on any small JavaScript
+- 👀 I’m interested in fintech
 - 📫 How to reach me -> here on GitHub
 
 <!---
