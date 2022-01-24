@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apologeticasteroid
-- 👀 I’m interested in the Mifos Initiative and Cybersecurity
-- 🌱 I’m currently learning Angular, NodeJS, Electron/Ionic
-- 💞️ I’m looking to collaborate on any small project, not really busy atm.
+- 👀 I’m interested in data analytics and web development
+- 🌱 I’m currently learning ReactJS and NodeJS
+- 💞️ I’m looking to collaborate on any small JavaScript
 - 📫 How to reach me -> here on GitHub
 
 <!---
